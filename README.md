@@ -6,3 +6,6 @@
     - Jovem Aprendiz em Arco Administrativo - CIEE (FAMAR - HCFAMEMA) (08/2022 - 12/2022)
 Atuação em arco administrativo pertinente ao cargo de Jovem Aprendiz: atendimento ao cliente
 de modo público e remoto; cuidados com documentos, formulários, relatórios e protocolos do setor.
+
+# Idiomas
+    Língua Inglesa - B2 (Michigan Englisht Test) - FISK Centro de Idiomas 
