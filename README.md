@@ -1,7 +1,11 @@
 # Dados Pessoais
 
+
+![exemplo](exemplo.png)
+
+
     AMANDA VIEIRA SILVA
-    23/03/2004 | amandavieira23.av@gmail.com | (99) 99999-9999
+    23/03/2004 | [amandavieira23.av@gmail.com] | (99) 99999-9999
 
 # Experiência Profissional
 
@@ -21,3 +25,5 @@ de modo público e remoto; cuidados com documentos, formulários, relatórios e 
     Certificação em Suporte Técnico do Google (Technical Support Fundamentals) - Coursera (20h)
     Segurança em Tecnologia da Informação - Fundação Bradesco Escola Virtual - Conclusão: agosto/2022 (12h)
     Fundamentos em TI: Hardware e Software - Fundação Bradesco Escola Virtual - Conclusão: julho/2022 (7h)
+
+    
