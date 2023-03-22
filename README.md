@@ -1,23 +1,26 @@
 # Dados Pessoais
-## Principais informações de contato
-
-![Foto de perfil]i
+## *Principais informações de contato*
 
 
     AMANDA VIEIRA SILVA
-    23/03/2004 | ![amandavieira23.av@gmail.com] | (99) 99999-9999
+    23/03/2004 | amandavieira23.av@gmail.com | (99) 99999-9999
 
 # Experiência Profissional
+## *Experiência trabalhista prévia*
+
 
     - Jovem Aprendiz em Arco Administrativo - CIEE (FAMAR - HCFAMEMA) (08/2022 - 12/2022)
 Atuação em arco administrativo pertinente ao cargo de Jovem Aprendiz: atendimento ao cliente
 de modo público e remoto; cuidados com documentos, formulários, relatórios e protocolos do setor.
 
 # Idiomas
+## *Conhecimento de idiomas*
+
 
     Língua Inglesa - B2 (Michigan Englisht Test) - FISK Centro de Idiomas 
 
 # Formação Complementar
+## *Cursos complementares*
 
     Illustrator: Ilustração Digital - Senac São Paulo - Conclusão: dezembro/2022
     Linguagens de Programação - Fundação Bradesco - Conclusão: outubro/2022 (40h)
