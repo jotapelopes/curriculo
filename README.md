@@ -3,7 +3,7 @@
 
 
     AMANDA VIEIRA SILVA
-    23/03/2004 | amandavieira23.av@gmail.com | (99) 99999-9999
+    23/03/2004 | amandavieira23.av@gmail.com | (99) 99999-9999 | RG: XX.XXX.XXX-X | CPF: XXX.XXX.XXX-XX
 
 # Experiência Profissional
 ## *Experiência trabalhista prévia*
